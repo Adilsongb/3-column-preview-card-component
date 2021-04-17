@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Adilsongb/card-component)
-- Live Site URL: (https://card-component-azure.vercel.app/)
+- Solution URL: (-)
+- Live Site URL: (https://3-column-preview-card-component-liard.vercel.app/)
 
 ## My process
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned a lot about how to use flexbox and how to make a website responsive, but I didn't understand how to make the image that color ... I couldn't find a way to stylize the image with css, so I edited it in photoshop (I tried).
+With this challenge I realized that I am getting fast to develop the front-end code, this is really a pleasure to see.
 
 ## Author
 
